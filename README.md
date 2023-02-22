@@ -167,3 +167,6 @@ Before you begin using the software:
 Disable all other network adapters
 
 Plug directly from your computer into the wireless bridge ethernet port closest to the power jack. Make sure no other devices are connected to your computer via ethernet. If powering the radio via PoE, plug an Ethernet cable from the PC into the socket side of the PoE adapter (where the roboRIO would plug in). If you experience issues configuring through the PoE adapter, you may try connecting the PC to the alternate port on the radio.	
+	
+## WATCH THIS VIEDO FOR INSTALLMENT
+	https://www.youtube.com/watch?v=niDZQifEYeE&list=PLq0D8c7ScX7RbOCWmYK8uUNln0sueBLWV&index=2
