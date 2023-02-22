@@ -170,3 +170,8 @@ Plug directly from your computer into the wireless bridge ethernet port closest 
 	
 ## WATCH THIS VIEDO FOR INSTALLMENT
 	https://www.youtube.com/watch?v=niDZQifEYeE&list=PLq0D8c7ScX7RbOCWmYK8uUNln0sueBLWV&index=2
+	
+	
+	
+## improve code by noting this things 
+https://docs.google.com/document/d/1yVk2K-SUT_UPxIvH2ixs8YijEAum1Ec_8tXdsD911rs/edit?usp=sharing
